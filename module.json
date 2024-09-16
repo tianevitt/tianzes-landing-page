@@ -1,0 +1,41 @@
+{
+  "id": "tianzes-landing-page",
+  "title": "Tianze's Landing Page",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Tia Nevitt",
+      "url": "http://www.tianevitt.com",
+      "discord": "tianze-scribe",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "tianzes-landing-page",
+      "label": "Tianze's Landing Page",
+      "path": "packs/tianzes-landing-page",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "tianzes-landing-page-info",
+      "label": "Tianze's Landing Page Info",
+      "path": "packs/tianzes-landing-page-info",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
