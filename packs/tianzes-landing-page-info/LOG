@@ -1,0 +1,8 @@
+2024/09/16-15:57:45.636 44c Recovering log #10
+2024/09/16-15:57:45.641 44c Delete type=0 #10
+2024/09/16-15:57:45.641 44c Delete type=3 #8
+2024/09/16-16:53:00.365 505c Level-0 table #15: started
+2024/09/16-16:53:00.365 505c Level-0 table #15: 0 bytes OK
+2024/09/16-16:53:00.367 505c Delete type=0 #13
+2024/09/16-16:53:00.369 505c Manual compaction at level-0 from '!folders!CNd5euEk2KKV5hzy' @ 72057594037927935 : 1 .. '!journal.pages!mnU2JlZpCZHllV4u.LUtP99wWz83UEDPY' @ 0 : 0; will stop at (end)
+2024/09/16-16:53:00.369 505c Manual compaction at level-1 from '!folders!CNd5euEk2KKV5hzy' @ 72057594037927935 : 1 .. '!journal.pages!mnU2JlZpCZHllV4u.LUtP99wWz83UEDPY' @ 0 : 0; will stop at (end)

@@ -1,0 +1,8 @@
+2024/09/16-15:57:45.623 3a2c Recovering log #10
+2024/09/16-15:57:45.628 3a2c Delete type=0 #10
+2024/09/16-15:57:45.628 3a2c Delete type=3 #8
+2024/09/16-16:53:00.363 505c Level-0 table #15: started
+2024/09/16-16:53:00.363 505c Level-0 table #15: 0 bytes OK
+2024/09/16-16:53:00.365 505c Delete type=0 #13
+2024/09/16-16:53:00.369 505c Manual compaction at level-0 from '!scenes!vXa2Cesah1wCMqR2' @ 72057594037927935 : 1 .. '!scenes.tiles!vXa2Cesah1wCMqR2.udT127OlICTdgxV6' @ 0 : 0; will stop at (end)
+2024/09/16-16:53:00.369 505c Manual compaction at level-1 from '!scenes!vXa2Cesah1wCMqR2' @ 72057594037927935 : 1 .. '!scenes.tiles!vXa2Cesah1wCMqR2.udT127OlICTdgxV6' @ 0 : 0; will stop at (end)
