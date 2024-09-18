@@ -26,6 +26,7 @@ This particular version supports 4 players. I am planning additional versions fo
 #### Adventure and Character Journals
 - There is a folder with example journals, which are included in the scene.
 - These folders have the players as owners, so you could actually give these to your players to use.
+
 Enjoy!
 ## Art Credits
 Foreground created with Inkarnate and made transparent with Affinity Designer.
