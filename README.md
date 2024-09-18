@@ -1,6 +1,4 @@
 # Tianze's Landing Page
-A simple yet flexible landing page for Foundry VTT.
-
 This is a dead-simple mod that provides a landing page designed with flexibility in mind.
 
 ## Installation
