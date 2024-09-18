@@ -14,9 +14,9 @@ This particular version supports 4 players. I am planning additional versions fo
 #### Cast of Characters
 - I recommend using tiles that point to the actor image, as shown in the examples. 
 - To get them to align nicely inside the shields, do the following:
--- Drag your token or portrait image onto the scene with Asset Grid Size of 400 so they fit inside the grid square.
--- Set the image Elevation to above 20.
--- Set the Tile Scale to 1.5 for both Horizontal and Vertical. This will make them (seemingly) align to the center of the grid, rather than the corner, and to fit nicely inside the shield.
+  - Drag your token or portrait image onto the scene with Asset Grid Size of 400 so they fit inside the grid square.
+  - Set the image Elevation to above 20.
+  - Set the Tile Scale to 1.5 for both Horizontal and Vertical. This will make them (seemingly) align to the center of the grid, rather than the corner, and to fit nicely inside the shield.
 - If you decide use actors instead, you will need to set their elevation to above 20 for them to appear on the overlay.
 #### Creatures Defeated
 - I used this area to keep track of recent kills as sort of a milestone tracker. 
