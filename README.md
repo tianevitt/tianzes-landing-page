@@ -7,7 +7,7 @@ It can be used for any game system. I am considering creating additional version
 This particular version supports 4 players. I am planning an additional versions for 6 players. If you would like a version with another number of players, please open a bug on the github page.
 
 ## Setup
-Export the two compendiums. One is the landing page scene, and the other is for the journals. The journals include more detailed instructions.
+Import the two compendiums. One is the landing page scene, and the other is for the journals. The journals include more detailed instructions.
 
 Enjoy!
 
