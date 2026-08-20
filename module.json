@@ -1,0 +1,43 @@
+{
+  "id": "tianzes-landing-page",
+  "title": "Tianze's Landing Page",
+  "version": "2.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Tia Nevitt",
+      "url": "http://www.tianevitt.com",
+      "discord": "tianze-scribe",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "tianzes-landing-page",
+      "label": "Tianze's Landing Page",
+      "path": "packs/tianzes-landing-page",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tianzes-landing-page-info",
+      "label": "Tianze's Landing Page Info",
+      "path": "packs/tianzes-landing-page-info",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "A simple yet flexible landing page for Foundry VTT.",
+  "url": "https://github.com/tianevitt/tianzes-landing-page",
+  "manifest": "https://github.com/tianevitt/tianzes-landing-page/releases/latest/download/module.json",
+  "download": "https://github.com/tianevitt/tianzes-landing-page/releases/download/2.0.0/tianzes-landing-page.zip"
+}
